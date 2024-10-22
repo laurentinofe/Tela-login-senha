@@ -1,0 +1,23 @@
+@media screen and (min-width: 1921px) {
+
+    body {
+        background-image: url(../img/back-tv4k.jpg);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+
+    .container-login {
+        min-width: 800px;
+        padding: 64px 64px 20px 64px;
+    }
+
+    #pc {
+        display: none;
+    }
+    #tv4k {
+        display: block;
+    }
+    
+}

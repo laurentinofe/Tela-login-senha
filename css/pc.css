@@ -1,0 +1,23 @@
+@media screen and (min-width: 1300px) and (max-width: 1920px) {
+
+    body {
+        background-image: url(../img/back-pc.jpg);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+
+    .container-login {
+        min-width: 400px;
+        padding: 32px 32px 10px 32px;
+    }
+
+    #pc {
+        display: block;
+    }
+    #tv4k {
+        display: none;
+    }
+   
+}
